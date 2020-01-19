@@ -1,0 +1,80 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  color: #2b2b28;
+  background-color: #e3b04b;
+}
+h1{
+  margin-top:0;
+  margin-bottom: 0;
+  font-size: 4rem;
+}
+h2{
+  font-size: 2rem;
+}
+h3{
+  font-size: 1.7rem;
+}
+p{
+  font-size: 1.5rem;
+}
+.top-container{
+  padding-top: 100px;
+  position: relative;
+
+}
+.top-pawprints{
+  position: absolute;
+  top:50px;
+  right:300px;
+}
+.bottom-pawprints{
+  position: absolute;
+  left:300px;
+  bottom: 200px;
+}
+.wonton-profile-2{
+width:150px;
+float: left;
+margin-right: 30px;
+}
+.profile{
+  width:50%;
+  text-align:left;
+  margin:30px auto 50px auto;
+}
+.skill-row{
+  width: 50%;
+  margin:50px auto 50px auto;
+  text-align: left;
+}
+.yearn{
+  float: left;
+  margin-right: 30px;
+}
+.toy{
+  float:right;
+  margin-left: 30px;
+}
+.scooper{
+  width:50%;
+  margin: 0 auto 40px;
+}
+.bottom-container{
+background-color: #2b2b28;
+color: #e3b04b;
+  line-height: 30px;
+}
+a{
+  text-decoration: none;
+  color: #e3b04b;
+  margin: 10px 20px;
+}
+a:hover{
+  color: white;
+}
+.ps{
+  font-size: 16px;
+  margin: 0 auto auto;
+}
